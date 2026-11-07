@@ -118,38 +118,6 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 - Microbiome data analysis.
 - Computational approaches to molecular biology.
 
----
-
-<!-- GITHUB STATS -->
-
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishkaverma9289&show_icons=true&hide_border=true&bg_color=0D1117&title_color=72C7B8&icon_color=72C7B8&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishkaverma9289&layout=compact&hide_border=true&bg_color=0D1117&title_color=72C7B8&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=tanishkaverma9289&theme=transparent&hide_border=true&ring=72C7B8&fire=72C7B8&currStreakLabel=72C7B8&sideLabels=C9D1D9&dates=777777" />
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishkaverma9289&bg_color=0D1117&color=C9D1D9&line=72C7B8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
 <!-- CONNECT -->
 
 ## Let's Connect
@@ -160,30 +128,12 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/tanishkaverma9289">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your actual LinkedIn profile URL -->
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:tanishkaverma9289@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🧬 Exploring biology. Understanding complexity. Building knowledge.
-
-*"Every biological question is an opportunity to discover something new."*
-
- <img
-    src="./NG_banner_01.gif"
-    width="100%"
-    alt="Tanishka's GitHub outro banner"
-  />
 
 </div>
