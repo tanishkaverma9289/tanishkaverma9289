@@ -35,11 +35,11 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Molecular_Biology-C7D9C0?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Genomics-DCE8D5?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Transcriptomics-B8CEB2?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Computational_Biology-E8EBDD?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Host--Pathogen_Interactions-D1DEC9?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Molecular_Biology-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&textColor=526D91&logoColor=526D91"/>
+<img src="https://img.shields.io/badge/Genomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&textColor=526D91"/>
+<img src="https://img.shields.io/badge/Transcriptomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&textColor=526D91"/>
+<img src="https://img.shields.io/badge/Computational_Biology-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&textColor=526D91"/>
+<img src="https://img.shields.io/badge/Host-Pathogen_Interactions-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF&textColor=526D91"/>
 
 </div>
 
