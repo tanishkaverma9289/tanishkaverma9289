@@ -142,9 +142,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-### Thanks for visiting my little corner of science!
-
-*Keep learning, keep questioning, keep growing.*
+### Until the next discovery...
 
 <img src="./NG_banner_01.jpg" width="100%" alt="Outro banner"/>
 
