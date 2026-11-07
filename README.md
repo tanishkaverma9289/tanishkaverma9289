@@ -139,10 +139,11 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 </div>
 
 <div align="center">
-  <img
-    src="./NG_banner_01.gif"
-    width="100%"
-    alt="Tanishka's GitHub outro"
-  />
-</div>
 
+### Thanks for visiting my little corner of science!
+
+*Keep learning, keep questioning, keep growing.*
+
+<img src="./NG_banner_01.jpg" width="100%" alt="Outro banner"/>
+
+</div>
