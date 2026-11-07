@@ -77,11 +77,11 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NCBI-2C5AA0?style=for-the-badge&logo=ncbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/BLAST-3569A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MEGA-315B72?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STRING-477A70?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NCBI_GEO-526A91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NCBI-C7D9C0?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/BLAST-DCE8D5?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/MEGA-B8CEB2?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/STRING-E8EBDD?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/NCBI_GEO-D1DEC9?style=for-the-badge&logoColor=405B45"/>
 
 </div>
 
