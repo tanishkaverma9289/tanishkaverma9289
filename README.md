@@ -36,9 +36,13 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 <div align="center">
 
 <p>
-  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">DNA Extraction</span>
-  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">Agarose Gel Electrophoresis</span>
-  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">DNA Quantification</span>
+  <img src="https://img.shields.io/badge/DNA_Extraction-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/DNA_Quantification-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Genomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Transcriptomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/BLAST_Analysis-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
 </p>
 
 </div>
