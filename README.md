@@ -33,19 +33,13 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 ## Research Interests
 
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/DNA_Extraction-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/DNA_Quantification-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Genomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Transcriptomics-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/BLAST_Analysis-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&labelColor=FFFFFF&color=FFFFFF"/>
+<p align="left">
+<img src="https://readme-components.vercel.app/api?component=badge&text=DNA%20Extraction&fill=white&textColor=526D91"/>
+<img src="https://readme-components.vercel.app/api?component=badge&text=Agarose%20Gel%20Electrophoresis&fill=white&textColor=526D91"/>
+<img src="https://readme-components.vercel.app/api?component=badge&text=DNA%20Quantification&fill=white&textColor=526D91"/>
+<img src="https://readme-components.vercel.app/api?component=badge&text=Transcriptomics&fill=white&textColor=526D91"/>
+<img src="https://readme-components.vercel.app/api?component=badge&text=BLAST%20Analysis&fill=white&textColor=526D91"/>
 </p>
-
-</div>
 
 ---
 
