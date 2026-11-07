@@ -42,7 +42,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <!-- PROJECTS -->
 
-## 🧫 Research & Projects
+## Research & Projects
 
 ### 01. From Gene Expression to Protein Networks: C. elegans Response to Pseudomonas aeruginosa Infection
 
@@ -105,10 +105,9 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 - Python for biological data analysis.
 - R programming and statistical analysis.
-- Linux and Bash for bioinformatics workflows.
 - RNA-seq data analysis.
 - Microbiome data analysis.
-- Computational approaches to molecular biology.
+- Metagenomics and microbiome analysis.
 
 <!-- CONNECT -->
 
