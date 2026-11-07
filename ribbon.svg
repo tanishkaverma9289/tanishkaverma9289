@@ -1,0 +1,34 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="54" viewBox="0 0 1200 54">
+
+  <defs>
+    <clipPath id="ribbon">
+      <rect width="1200" height="54" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="54" rx="14" fill="#F0F3FA"/>
+
+  <g clip-path="url(#ribbon)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-1200 0"
+        to="0 0"
+        dur="22s"
+        repeatCount="indefinite"/>
+
+      <text x="0" y="33" font-family="monospace"
+            font-size="17" fill="#526D91">
+        ♡  &gt; seq_01  ✦  organism:Homo sapiens  ✧  mode:in_silico  ♡  focus:transcriptomics  ⋆  exploring biological data  ♡
+      </text>
+
+      <text x="1200" y="33" font-family="monospace"
+            font-size="17" fill="#526D91">
+        ♡  &gt; seq_01  ✦  organism:Homo sapiens  ✧  mode:in_silico  ♡  focus:transcriptomics  ⋆  exploring biological data  ♡
+      </text>
+    </g>
+  </g>
+</svg>
