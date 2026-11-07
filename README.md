@@ -35,11 +35,11 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Molecular_Biology-FFFFFF?style=flat-square&logoColor=526D91&labelColor=FFFFFF&color=C9D7E7"/>
-<img src="https://img.shields.io/badge/Genomics-FFFFFF?style=flat-square&logoColor=526D91&labelColor=FFFFFF&color=C9D7E7"/>
-<img src="https://img.shields.io/badge/Transcriptomics-FFFFFF?style=flat-square&logoColor=526D91&labelColor=FFFFFF&color=C9D7E7"/>
-<img src="https://img.shields.io/badge/Computational_Biology-FFFFFF?style=flat-square&logoColor=526D91&labelColor=FFFFFF&color=C9D7E7"/>
-<img src="https://img.shields.io/badge/Host-Pathogen_Interactions-FFFFFF?style=flat-square&logoColor=526D91&labelColor=FFFFFF&color=C9D7E7"/>
+<p>
+  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">DNA Extraction</span>
+  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">Agarose Gel Electrophoresis</span>
+  <span style="color:#526D91; background:#FFFFFF; border:1px solid #C9D7E7; padding:5px 10px; border-radius:5px;">DNA Quantification</span>
+</p>
 
 </div>
 
