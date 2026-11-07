@@ -4,6 +4,11 @@
 <!-- ===================================================== -->
 
 <!-- HEADER -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=0&color=315B72&center=true&vCenter=true&width=900&lines=%3Eseq_01+%7C+organism%3AHomo+sapiens+%7C+mode%3Ain_silico+%7C+focus%3Atranscriptomics" />
+</p>
+
 <div align="center">
   <img
     src="./banner_02.gif"
