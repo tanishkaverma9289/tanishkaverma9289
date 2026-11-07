@@ -86,13 +86,6 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 <img src="https://img.shields.io/badge/STRING-477A70?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NCBI_GEO-526A91?style=for-the-badge"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-
 </div>
 
 ### Laboratory Techniques
