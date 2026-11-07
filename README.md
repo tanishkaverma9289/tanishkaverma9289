@@ -137,3 +137,12 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 </a>
 
 </div>
+
+<div align="center">
+  <img
+    src="./NG_banner_01.gif"
+    width="100%"
+    alt="Tanishka's GitHub outro"
+  />
+</div>
+
