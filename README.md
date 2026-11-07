@@ -6,7 +6,7 @@
 <!-- HEADER -->
 <div align="center">
   <img
-    src="./rei_banner.gif"
+    src="./banner_02.gif"
     width="100%"
     alt="Tanishka's GitHub banner"
   />
