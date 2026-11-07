@@ -99,11 +99,11 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DNA_Extraction-315B72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-315B72?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNA_Quantification-315B72?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bacterial_Culture-315B72?style=flat-square"/>
-<img src="https://img.shields.io/badge/PCR-315B72?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNA_Extraction-C7D9C0?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-DCE8D5?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/DNA_Quantification-B8CEB2?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Bacterial_Culture-E8EBDD?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/PCR-D1DEC9?style=for-the-badge&logoColor=405B45"/>
 
 </div>
 
