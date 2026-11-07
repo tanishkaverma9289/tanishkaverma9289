@@ -16,11 +16,13 @@
 
 ## About Me
 
-Hi! I'm **Tanishka Verma**, an undergraduate Life Sciences student at **Maitreyi College, University of Delhi**, interested in understanding biological systems through molecular biology, genomics and computational research.
+I study Life Sciences at Maitreyi College, University of Delhi. Over time, my interests have been moving more towards the molecular and genetic aspects of biology, along with the computational side of understanding biological systems. I'm particularly interested in how changes in gene expression, molecular interactions and microbial communities can influence disease processes and how hosts respond to different environmental stresses.
 
-My interests lie at the intersection of experimental biology and bioinformatics, particularly in exploring gene expression, host–pathogen interactions, microbial communities and molecular mechanisms underlying biological processes.
+What draws me in most is the connection between experimental biology and data analysis. I find public biological datasets especially interesting because they offer an opportunity to explore new research questions, revisit existing findings and investigate biological patterns without necessarily starting from scratch. My interests currently lie somewhere between molecular biology, genetics, genomics, transcriptomics and microbiology, with a growing curiosity about how these areas overlap.
 
-I enjoy working with publicly available biological datasets, exploring scientific databases and translating biological questions into research-oriented projects.
+Bioinformatics and computational biology are two areas I'm particularly interested in exploring further and developing practical skills in. I want to understand how a biological question can be translated into a computational approach, how the resulting data can be analysed and interpreted, and how the entire process can be made more reproducible. I also find scientific communication important because research is not just about generating results but also about explaining the methods, reasoning and findings clearly.
+
+I'm still exploring where exactly these interests will take me, but I enjoy learning across disciplines, working with biological data and gradually building the technical and research skills needed to investigate biological questions more independently.
 
 <!-- RESEARCH INTERESTS -->
 
