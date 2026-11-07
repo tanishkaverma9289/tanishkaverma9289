@@ -11,11 +11,10 @@
     alt="Tanishka's GitHub banner"
   />
 </div>
----
 
 <!-- ABOUT ME -->
 
-## 🧬 About Me
+## About Me
 
 Hi! I'm **Tanishka Verma**, an undergraduate Life Sciences student at **Maitreyi College, University of Delhi**, interested in understanding biological systems through molecular biology, genomics and computational research.
 
@@ -23,17 +22,9 @@ My interests lie at the intersection of experimental biology and bioinformatics,
 
 I enjoy working with publicly available biological datasets, exploring scientific databases and translating biological questions into research-oriented projects.
 
-- 🔬 Interested in Molecular Biology, Genomics & Microbiology.
-- 🧬 Exploring Transcriptomics and Host–Pathogen Interactions.
-- 💻 Learning and applying Python for biological data analysis.
-- 🧪 Interested in microbial ecology and computational biology.
-- 📚 Currently expanding my knowledge of bioinformatics and data science.
-
----
-
 <!-- RESEARCH INTERESTS -->
 
-## 🔬 Research Interests
+## Research Interests
 
 <div align="center">
 
@@ -67,30 +58,9 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 🔗 **Repository:** [C. elegans–PA14 Infection Transcriptomics](https://github.com/tanishkaverma9289/C.elegans-PA14-infection-transcriptomics)
 
-### 02. Molecular Phylogenetic Analysis of Cereal Species
-
-**Academic Project | April 2026**
-
-- Retrieved nucleotide sequences from NCBI GenBank.
-- Performed multiple sequence alignment using ClustalW in MEGA.
-- Constructed phylogenetic trees using the Neighbour-Joining method.
-- Applied the Kimura 2-parameter substitution model.
-- Evaluated branch support using 1,000 bootstrap replicates.
-
-### 03. Gut Microbiome Research Proposal
-
-**Independent Research Concept**
-
-- Exploring microbial signatures across healthy individuals, inflammatory bowel disease and colorectal cancer.
-- Interested in public metagenomic datasets and microbial species abundance.
-- Proposed exploratory machine learning analysis for identifying potentially informative microbial taxa.
-- Focus on reproducibility, validation and biological interpretation.
-
----
-
 <!-- TECH STACK -->
 
-## 💻 Tools & Technologies
+## Tools & Technologies
 
 ### Programming & Data Analysis
 
@@ -139,7 +109,7 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 <!-- CURRENTLY LEARNING -->
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Python for biological data analysis.
 - R programming and statistical analysis.
@@ -152,7 +122,7 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 <!-- GITHUB STATS -->
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -170,7 +140,7 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 <!-- ACTIVITY GRAPH -->
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -182,7 +152,7 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 <!-- CONNECT -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -210,6 +180,10 @@ I enjoy working with publicly available biological datasets, exploring scientifi
 
 *"Every biological question is an opportunity to discover something new."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:263C50,100:101827&height=100&section=footer" width="100%"/>
+ <img
+    src="./NG_banner_01.gif"
+    width="100%"
+    alt="Tanishka's GitHub outro banner"
+  />
 
 </div>
