@@ -30,14 +30,11 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Molecular_Biology-243B53?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Genomics-294C60?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transcriptomics-315C68?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bioinformatics-386B70?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microbiology-355C50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microbial_Ecology-456B58?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Host--Pathogen_Interactions-45556B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computational_Biology-4B526B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Molecular_Biology-C7D9C0?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Genomics-DCE8D5?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Transcriptomics-B8CEB2?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Computational_Biology-E8EBDD?style=for-the-badge&logoColor=405B45"/>
+<img src="https://img.shields.io/badge/Host--Pathogen_Interactions-D1DEC9?style=for-the-badge&logoColor=405B45"/>
 
 </div>
 
