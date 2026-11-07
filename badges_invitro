@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="90" viewBox="0 0 920 90" fill="none">
+  <style>
+    .sticker { fill: #FFFFFF; stroke: #526D91; stroke-width: 2; stroke-dasharray: 5 3; rx: 12px; }
+    .badge-text { font-family: monospace; font-size: 15px; fill: #526D91; font-weight: bold; }
+  </style>
+
+  <!-- Row 1 -->
+  <g transform="translate(0, 5)">
+    <rect class="sticker" width="165" height="34" />
+    <text x="16" y="22" class="badge-text">✧ Trascriptomics</text>
+  </g>
+
+  <g transform="translate(175, 5)">
+    <rect class="sticker" width="225" height="34" />
+    <text x="16" y="22" class="badge-text">✧ Molecular Biology</text>
+  </g>
+
+  <g transform="translate(410, 5)">
+    <rect class="sticker" width="195" height="34" />
+    <text x="16" y="22" class="badge-text">✧ Metagenomics</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(0, 48)">
+    <rect class="sticker" width="250" height="34" />
+    <text x="16" y="22" class="badge-text">✧ Antimicrobial Resistance</text>
+  </g>
+  
+</svg>
