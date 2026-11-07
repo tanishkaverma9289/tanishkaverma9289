@@ -34,15 +34,8 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 ## Research Interests
 
 <p align="left">
-<img src="https://img.shields.io/badge/DNA_Extraction-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/DNA_Quantification-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Genomics-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transcriptomics-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/BLAST_Analysis-BFD3E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-BFD3E6?style=flat-square"/>
+  <img src="./badges.svg" alt="Skills Badges" />
 </p>
-
 ---
 
 <!-- PROJECTS -->
