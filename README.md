@@ -34,11 +34,13 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 ## Research Interests
 
 <p align="left">
-<img src="https://readme-components.vercel.app/api?component=badge&text=DNA%20Extraction&fill=white&textColor=526D91"/>
-<img src="https://readme-components.vercel.app/api?component=badge&text=Agarose%20Gel%20Electrophoresis&fill=white&textColor=526D91"/>
-<img src="https://readme-components.vercel.app/api?component=badge&text=DNA%20Quantification&fill=white&textColor=526D91"/>
-<img src="https://readme-components.vercel.app/api?component=badge&text=Transcriptomics&fill=white&textColor=526D91"/>
-<img src="https://readme-components.vercel.app/api?component=badge&text=BLAST%20Analysis&fill=white&textColor=526D91"/>
+<img src="https://img.shields.io/badge/DNA_Extraction-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNA_Quantification-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Genomics-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transcriptomics-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLAST_Analysis-BFD3E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-BFD3E6?style=flat-square"/>
 </p>
 
 ---
