@@ -5,19 +5,12 @@
 
 <!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:101827,50:172B3A,100:263C50&text=Tanishka%20Verma&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Life%20Sciences%20%7C%20Molecular%20Biology%20%7C%20Bioinformatics&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=72C7B8&center=true&vCenter=true&width=650&lines=Exploring+the+complexity+of+biological+systems;From+molecular+mechanisms+to+genomic+data;Learning+%7C+Researching+%7C+Building" alt="Typing SVG"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tanishkaverma9289&label=PROFILE+VIEWS&color=263C50&style=flat-square" />
-
+  <img
+    src="./rei_banner.gif"
+    width="100%"
+    alt="Tanishka's GitHub banner"
+  />
 </div>
-
 ---
 
 <!-- ABOUT ME -->
