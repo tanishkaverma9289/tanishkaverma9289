@@ -34,7 +34,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 ## Research Interests
 
 <p align="left">
-  <img src="./badges.svg" alt="Skills Badges" />
+  <img src="./badges_interests.svg" alt="Skills Badges" />
 </p>
 ---
 
