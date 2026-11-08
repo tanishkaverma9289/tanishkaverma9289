@@ -25,7 +25,7 @@
     <text x="16" y="22" class="badge-text">✧ NCBI GE0</text>
   </g>
 
-    <g transform="translate(0, 48)">
+    <g transform="translate(490, 5)">
     <rect class="sticker" width="110" height="34" />
     <text x="16" y="22" class="badge-text">✧ STRING</text>
   </g>
