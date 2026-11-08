@@ -30,7 +30,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 ## Research Interests ⋆˚꩜｡
 
 <p align="left">
-  <img src="./badges_interests.svg?v=2" alt="Skills Badges"/>
+  <img src="./badges_interests.svg?v=3" alt="Skills Badges"/>
 </p>
 
 ## Research & Projects ⋆˚꩜｡
