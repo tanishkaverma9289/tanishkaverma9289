@@ -6,7 +6,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="./ribbon.svg" width="100%" />
+  <img src="./ribbon.svg?v=2" width="100%" />
 </p>
 
 <div align="center">
@@ -73,7 +73,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 <div align="center">
 
 <p align="left">
-  <img src="./badges_insilico.svg" alt="computational skills Badges" />
+  <img src="./badges_insilico.svg?v=2" alt="computational skills Badges" />
 </p>
 
 </div>
