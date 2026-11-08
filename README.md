@@ -73,7 +73,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 <div align="center">
 
 <p align="left">
-  <img src="./badges_insilico.svg" alt="lab skills Badges" />
+  <img src="./badges_insilico.svg" alt="computational skills Badges" />
 </p>
 
 </div>
