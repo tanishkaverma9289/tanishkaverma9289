@@ -6,28 +6,27 @@
 
   <!-- Row 1 -->
   <g transform="translate(0, 5)">
-    <rect class="sticker" width="165" height="34" />
+    <rect class="sticker" width="110" height="34" />
     <text x="16" y="22" class="badge-text">✧ NCBI</text>
   </g>
 
-  <g transform="translate(175, 5)">
-    <rect class="sticker" width="225" height="34" />
+  <g transform="translate(120, 5)">
+    <rect class="sticker" width="110" height="34" />
     <text x="16" y="22" class="badge-text">✧ BLAST</text>
   </g>
 
-  <g transform="translate(410, 5)">
-    <rect class="sticker" width="195" height="34" />
+  <g transform="translate(240, 5)">
+    <rect class="sticker" width="110" height="34" />
     <text x="16" y="22" class="badge-text">✧ MEGA</text>
   </g>
 
-  <!-- Row 2 -->
-  <g transform="translate(0, 48)">
-    <rect class="sticker" width="250" height="34" />
+  <g transform="translate(360, 5)">
+    <rect class="sticker" width="120" height="34" />
     <text x="16" y="22" class="badge-text">✧ NCBI GE0</text>
   </g>
 
     <g transform="translate(0, 48)">
-    <rect class="sticker" width="250" height="34" />
+    <rect class="sticker" width="110" height="34" />
     <text x="16" y="22" class="badge-text">✧ STRING</text>
   </g>
   
