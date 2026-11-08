@@ -82,12 +82,9 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 ### Laboratory Techniques
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DNA_Extraction-C7D9C0?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Agarose_Gel_Electrophoresis-DCE8D5?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/DNA_Quantification-B8CEB2?style=for-the-badge&logoColor=405B45"/>
-<img src="https://img.shields.io/badge/Bacterial_Culture-E8EBDD?style=for-the-badge&logoColor=405B45"/>
+<p align="left">
+  <img src="./badges_invitro.svg" alt="lab skills Badges" />
+</p>
 
 </div>
 
