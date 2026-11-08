@@ -7,23 +7,23 @@
   <!-- Row 1 -->
   <g transform="translate(0, 5)">
     <rect class="sticker" width="165" height="34" />
-    <text x="16" y="22" class="badge-text">✧ Trascriptomics</text>
+    <text x="16" y="22" class="badge-text">✧ Genomic DNA Extraction</text>
   </g>
 
   <g transform="translate(175, 5)">
     <rect class="sticker" width="225" height="34" />
-    <text x="16" y="22" class="badge-text">✧ Molecular Biology</text>
+    <text x="16" y="22" class="badge-text">✧ Agrose Gel Electrophoresis</text>
   </g>
 
   <g transform="translate(410, 5)">
     <rect class="sticker" width="195" height="34" />
-    <text x="16" y="22" class="badge-text">✧ Metagenomics</text>
+    <text x="16" y="22" class="badge-text">✧ DNA Quantification</text>
   </g>
 
   <!-- Row 2 -->
   <g transform="translate(0, 48)">
     <rect class="sticker" width="250" height="34" />
-    <text x="16" y="22" class="badge-text">✧ Antimicrobial Resistance</text>
+    <text x="16" y="22" class="badge-text">✧ Bacteria Culture</text>
   </g>
   
 </svg>
