@@ -22,7 +22,7 @@
 
       <text x="0" y="33" font-family="monospace"
             font-size="17" fill="#526D91">
-        ♡  &gt; seq_01  ✦  organism:Homo sapiens  ✧  mode:in_silico  ♡  focus:transcriptomics  ⋆  exploring biological data  ♡
+        ♡  &gt; seq_01  ✦  organism:Homo sapiens  ✧  mode:in_silico  ♡  focus: transcriptomics ⋆ metagenomics ⋆ AMR ⋆ exploring biological data  ♡
       </text>
 
       <text x="1200" y="33" font-family="monospace"
