@@ -1,8 +1,4 @@
 
-<!-- ===================================================== -->
-<!--                 TANISHKA'S GITHUB PROFILE              -->
-<!-- ===================================================== -->
-
 <!-- HEADER -->
 
 <p align="center">
@@ -19,7 +15,7 @@
 
 <!-- ABOUT ME -->
 
-## About Me
+## About Me ⋆˚꩜｡
 
 I study Life Sciences at Maitreyi College, University of Delhi. Over time, my interests have been moving more towards the molecular and genetic aspects of biology, along with the computational side of understanding biological systems. I'm particularly interested in how changes in gene expression, molecular interactions and microbial communities can influence disease processes and how hosts respond to different environmental stresses.
 
@@ -31,13 +27,13 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <!-- RESEARCH INTERESTS -->
 
-## Research Interests
+## Research Interests ⋆˚꩜｡
 
 <p align="left">
   <img src="./badges_interests.svg" alt="Skills Badges" />
 </p>
 
-## Research & Projects
+## Research & Projects ⋆˚꩜｡
 
 ### 01. From Gene Expression to Protein Networks: C. elegans Response to Pseudomonas aeruginosa Infection
 
@@ -54,7 +50,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <!-- TECH STACK -->
 
-## Tools & Technologies
+## Tools & Technologies ⋆˚꩜｡
 
 ### Programming & Data Analysis
 
@@ -70,7 +66,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 ### Bioinformatics & Scientific Tools
 
-<div align="center">
+<div>
 
 <p align="left">
   <img src="./badges_insilico.svg?v=2" alt="computational skills Badges" />
@@ -80,17 +76,13 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 ### Laboratory Techniques
 
+<div>
 <p align="left">
   <img src="./badges_invitro.svg" alt="lab skills Badges" />
 </p>
-
 </div>
 
----
-
-<!-- CURRENTLY LEARNING -->
-
-## Currently Learning
+## Currently Learning ⋆˚꩜｡
 
 - Python for biological data analysis.
 - R programming and statistical analysis.
@@ -100,7 +92,7 @@ I'm still exploring where exactly these interests will take me, but I enjoy lear
 
 <!-- CONNECT -->
 
-## Let's Connect
+## Let's Connect ⋆˚꩜｡
 
 <div align="center">
 
