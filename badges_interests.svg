@@ -7,7 +7,7 @@
   <!-- Row 1 -->
   <g transform="translate(0, 5)">
     <rect class="sticker" width="165" height="34" />
-    <text x="16" y="22" class="badge-text">✧ Trascriptomics</text>
+    <text x="16" y="22" class="badge-text">✧ Transcriptomics</text>
   </g>
 
   <g transform="translate(175, 5)">
